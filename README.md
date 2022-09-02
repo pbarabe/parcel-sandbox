@@ -10,7 +10,8 @@ I skipped the last section titled _Declaring browser targets_.
 
 Copied the `.editorconfig` and `.gitignore` files.
 
-Installed eslint to follow standard JS style: `$ npx eslint --init`
+Installed eslint to follow [standard JS](https://standardjs.com/) style: `$ npx eslint --init`
+
 Provided the [following responses to the prompts](https://loige.hashnode.dev/configure-eslint-and-standardjs):
 - How would you like to use ESLint? - **To check syntax, find problems, and enforce code style**
 - What type of modules does your project use? - **JavaScript modules (import/export)**
